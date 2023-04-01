@@ -1,0 +1,2 @@
+
+This bot has the following functionality: it issues a weather forecast for any city (and not only cities) on Earth. The city is registered by the user. There is also a check for the correctness of the city name. If the name is incorrect, the bot will write the appropriate messages
