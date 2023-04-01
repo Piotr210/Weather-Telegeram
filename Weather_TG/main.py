@@ -5,7 +5,7 @@ from config import open_weather_token
 
 
 def get_weather(city, open_weather_token):
-#cat
+
     code_to_smile = {
         "Clear": "Ясно \U00002600",
         "Clouds": "Облачно \U00002601",
@@ -15,7 +15,6 @@ def get_weather(city, open_weather_token):
         "Snow": "Снег \U0001F328",
         "Mist": "Туман \U0001F32B"
     }
-
 
     try:
         wr = requests.get(
@@ -58,6 +57,7 @@ def get_weather(city, open_weather_token):
         print(ex)
         print("Проверьте название города")
 
+
 def prob(city):
     counter = True
     # city = main()
@@ -81,10 +81,12 @@ def prob(city):
                 city = main()
                 break
 
+
 def main():
     city = input("Введите название города: ")
     prob(city)
     # get_weather(city, open_weather_token)
+
 
 if __name__ == '__main__':
     main()
