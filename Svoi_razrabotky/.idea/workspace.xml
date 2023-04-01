@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f31f502c-bfb1-4f16-9006-be75f9ab14bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Doreabotka_and_NewDZ/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Doreabotka_and_NewDZ/.idea/Doreabotka_and_NewDZ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Doreabotka_and_NewDZ/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Doreabotka_and_NewDZ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Doreabotka_and_NewDZ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Doreabotka_and_NewDZ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Doreabotka_and_NewDZ/Formatirovanie_SPISKOv_Metodami.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Doreabotka_and_NewDZ/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experement/break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experement/nuka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Svoi_razrabotky.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drugoe_reshenie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mnogo_information.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One_element_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROBNY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Probacat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Razrabotky.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spisok_s_zamenoi_VLOZHENY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Start_of_Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ffffiyu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Chisla_proverka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Peremenni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Serious_programm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/yuo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/GEBERATOR_SPISKA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/.idea/pythonProjectCikla.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/Cikli_Prodolg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/For.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/Super_zadaci(1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/Super_zadaci(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/Super_zadzci(3).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectCikla/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vol.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Drugoe_reshenie.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/New_work.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/One_element_list.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Razrabotky.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Spisok_s_zamenoi_VLOZHENY.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Start_of_Lists.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HP9wi0MA51Hgqz4BFr5gumZSrd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Петя/PycharmProjects/Svoi_razrabotky"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.Probacat">
+    <configuration name="New_work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Svoi_razrabotky" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New_work.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="One_element_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Svoi_razrabotky" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/One_element_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PROBNY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Svoi_razrabotky" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PROBNY.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Probacat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Svoi_razrabotky" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Probacat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Spisok_s_zamenoi_VLOZHENY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Svoi_razrabotky" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spisok_s_zamenoi_VLOZHENY.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Svoi_razrabotky" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Probacat" />
+        <item itemvalue="Python.PROBNY" />
+        <item itemvalue="Python.Spisok_s_zamenoi_VLOZHENY" />
+        <item itemvalue="Python.New_work" />
+        <item itemvalue="Python.One_element_list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f31f502c-bfb1-4f16-9006-be75f9ab14bf" name="Changes" comment="" />
+      <created>1668176091633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668176091633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Razrabotky.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mnogo_information.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/New_work.py</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
