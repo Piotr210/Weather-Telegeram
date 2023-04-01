@@ -5,7 +5,7 @@ from config import open_weather_token
 
 
 def get_weather(city, open_weather_token):
-
+#cat
     code_to_smile = {
         "Clear": "Ясно \U00002600",
         "Clouds": "Облачно \U00002601",
